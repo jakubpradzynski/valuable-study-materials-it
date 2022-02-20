@@ -8,6 +8,10 @@
 
 [bITconf 2019 - [Jarosław Pałka] Kto zjadł mój RAM? - poprawiony dźwięk](https://www.youtube.com/watch?v=F_jOvbp7LPg)
 
+[287. WJUG Jarosław Pałka - "Bare Metal Java" [PL]](https://www.youtube.com/watch?v=FaxTTbsgb34)
+
+[Toruń JUG #29 - "JIT me baby one more time" - Jarek Pałka](https://www.youtube.com/watch?v=GXyM7IOTXOM)
+
 
 ## HTTP
 
@@ -24,5 +28,21 @@
 ## Threads
 
 [bITconf 2019 - [Adam Dubiel] Powrót do podstaw: wątki](https://www.youtube.com/watch?v=RVBlCTK_3oA)
+
+[Tech3camp #63 (JAVA): Tomasz Nurkiewicz - Wycieczka po współbieżności w JAVIE](https://www.youtube.com/watch?v=gbjF4ahIX7E)
+
+
+## Reactive programming
+
+[Co ssie w programowaniu reaktywnym. Tomek Nurkiewicz - JAVA CHAMPION](https://www.youtube.com/watch?v=WxCb6TMkNd8)
+
+[Toruń JUG #32 - "Asynchronous by default, synchronous when necessary" - Tomasz Nurkiewicz](https://www.youtube.com/watch?v=YjJZaGVwKAY)
+
+
+## Others
+
+[2013 - Tomasz Nurkiewicz - Krótka historia czasu](https://www.youtube.com/watch?v=zsfEWLGgsEY)
+
+[WJUG #250 - Tomasz Nurkiewicz: Charbuster: 10 mitów o Unicode](https://www.youtube.com/watch?v=QIEpZ0MGoBc)
 
 
