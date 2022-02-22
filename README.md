@@ -31,6 +31,8 @@
 
 [Tech3camp #63 (JAVA): Tomasz Nurkiewicz - Wycieczka po współbieżności w JAVIE](https://www.youtube.com/watch?v=gbjF4ahIX7E)
 
+[Tomasz Nurkiewicz - Project Loom: Revolution in concurrency or obscure implementation detail?](https://www.youtube.com/watch?v=n_XRUljffu0)
+
 
 ## Reactive programming
 
@@ -39,10 +41,15 @@
 [Toruń JUG #32 - "Asynchronous by default, synchronous when necessary" - Tomasz Nurkiewicz](https://www.youtube.com/watch?v=YjJZaGVwKAY)
 
 
+## Security
+
+[[Architektura i kontenery] DevSecOps - bezpieczeństwo w chmurze z życia wzięte](https://www.youtube.com/watch?v=_sdt1yc5LPM)
+
+
 ## Others
 
 [2013 - Tomasz Nurkiewicz - Krótka historia czasu](https://www.youtube.com/watch?v=zsfEWLGgsEY)
 
 [WJUG #250 - Tomasz Nurkiewicz: Charbuster: 10 mitów o Unicode](https://www.youtube.com/watch?v=QIEpZ0MGoBc)
 
-
+[[Architektura i kontenery] Chcę to na produkcji na ASAPie!](https://www.youtube.com/watch?v=o51N4c90jVw)
