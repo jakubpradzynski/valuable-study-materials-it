@@ -53,3 +53,37 @@
 [WJUG #250 - Tomasz Nurkiewicz: Charbuster: 10 mitów o Unicode](https://www.youtube.com/watch?v=QIEpZ0MGoBc)
 
 [[Architektura i kontenery] Chcę to na produkcji na ASAPie!](https://www.youtube.com/watch?v=o51N4c90jVw)
+
+## Books
+
+[Czysty kod. Podręcznik dobrego programisty](https://helion.pl/ksiazki/czysty-kod-podrecznik-dobrego-programisty-robert-c-martin,czykvv.htm?from=ni#format/d)
+
+[Mistrz czystego kodu. Kodeks postępowania profesjonalnych programistów](https://helion.pl/ksiazki/mistrz-czystego-kodu-kodeks-postepowania-profesjonalnych-programistow-robert-c-martin,mckkvv.htm#format/d)
+
+[Czysta architektura. Struktura i design oprogramowania. Przewodnik dla profesjonalistów](https://helion.pl/ksiazki/czysta-architektura-struktura-i-design-oprogramowania-przewodnik-dla-profesjonalistow-robert-c-martin,czarcv.htm#format/d)
+
+[Refaktoryzacja. Ulepszanie struktury istniejącego kodu](https://helion.pl/ksiazki/refaktoryzacja-ulepszanie-struktury-istniejacego-kodu-wydanie-ii-martin-fowler,refak2.htm#format/d)
+
+[NoSQL. Kompendium wiedzy](https://helion.pl/ksiazki/nosql-kompendium-wiedzy-pramod-j-sadalage-martin-fowler,nosqlk.htm#format/d)
+
+[TDD. Sztuka tworzenia dobrego kodu](https://helion.pl/ksiazki/tdd-sztuka-tworzenia-dobrego-kodu-kent-beck,tddszv.htm#format/d)
+
+[Bezpieczeństwo aplikacji webowych](https://ksiazka.sekurak.pl/)
+
+[Wzorce projektowe. Elementy oprogramowania obiektowego wielokrotnego użytku](https://helion.pl/ksiazki/wzorce-projektowe-elementy-oprogramowania-obiektowego-wielokrotnego-uzytku-erich-gamma-richard-helm-ralph-johnson-john-vli,wzoevv.htm#format/d)
+
+[Head First Design Patterns. Edycja polska (Rusz głową!)](https://helion.pl/ksiazki/head-first-design-patterns-edycja-polska-rusz-glowa-eric-freeman-elisabeth-freeman-kathy-sierra-ber,hfdepa.htm#format/d)
+
+[Pragmatyczny programista. Od czeladnika do mistrza](https://helion.pl/ksiazki/pragmatyczny-programista-od-czeladnika-do-mistrza-wydanie-ii-david-thomas-andrew-hunt,pragp2.htm#format/d)
+
+[Kafka w praktyce. Przetwarzanie strumieniowe i potoki danych o dużej skali](https://helion.pl/ksiazki/kafka-w-praktyce-przetwarzanie-strumieniowe-i-potoki-danych-o-duzej-skali-wydanie-ii-gwen-shapira-todd-palino-rajini-sivaram-krit-pe,kafpra.htm#format/d)
+
+[Java. Efektywne programowanie. Wydanie III](https://helion.pl/ksiazki/java-efektywne-programowanie-wydanie-iii-joshua-bloch,jave3v.htm#format/d)
+
+[Spark. Zaawansowana analiza danych](https://helion.pl/ksiazki/spark-zaawansowana-analiza-danych-sandy-ryza-uri-laserson-sean-owen-josh-wills,sparkz.htm#format/d)
+
+[Etyczny haking. Praktyczne wprowadzenie do hakingu](https://helion.pl/ksiazki/etyczny-haking-praktyczne-wprowadzenie-do-hakingu-daniel-graham,etyhak.htm#format/d)
+
+[Wiersz poleceń Linuksa. Rozwijanie umiejętności efektywnej pracy](https://helion.pl/ksiazki/wiersz-polecen-linuksa-rozwijanie-umiejetnosci-efektywnej-pracy-daniel-barrett,wiepol.htm#format/d)
+
+[Domain-Driven Design. Zapanuj nad złożonym systemem informatycznym](https://helion.pl/ksiazki/domain-driven-design-zapanuj-nad-zlozonym-systemem-informatycznym-eric-evans,dddzap.htm?from=ni#format/d)
